@@ -48,4 +48,4 @@
 
 ## `Minh chứng VNC Client`
 
-![MinhChung](https://drive.google.com/file/d/1nfhsEcICWK6Y2NNhBJkUj7ZDF3EshyRa/view?usp=sharing)
+![Minh Chung](https://github.com/hiepuet1705/SA_Exam1/assets/100411662/d3534539-714b-4231-b48d-d7a1cc0b5e16)
